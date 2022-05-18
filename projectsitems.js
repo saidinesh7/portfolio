@@ -1,0 +1,5 @@
+const Projects_Data=[
+    {'image':"https://img.icons8.com/emoji/344/fire.png",'title':'Flames','description':'A web application which takes two names as input and predicts output.'},
+    {'image':"https://img.icons8.com/color/344/clouds.png",'title':'Weather Prediction','description':'A python GUI application which predicts the rainfall and various weather parameters.'},
+    {'image':"https://img.icons8.com/plasticine/344/instagram-new--v2.png",'title':'instagram-clone','description':'A react-native mobile clone of instagram...'},
+    {'image':"https://img.icons8.com/external-glyph-on-circles-amoghdesign/344/external-cartoon-movies-glyph-on-circles-amoghdesign.png",'title':'cartoonizer','description':'A web application which takes any image and converts it into cartoon image which uses a Toonify API'}];
